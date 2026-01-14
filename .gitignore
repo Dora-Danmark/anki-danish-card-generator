@@ -1,0 +1,6 @@
+cache/
+data/output/
+*.mp3
+__pycache__/
+.cache/
+.DS_Store
