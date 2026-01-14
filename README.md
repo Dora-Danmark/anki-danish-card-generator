@@ -17,6 +17,7 @@ This project takes a CSV file with Danish vocabulary and example sentences, down
 ---
 
 ## Project Structure
+'''
 anki-danish-card-generator/
 ├── src/
 │ └── anki_danish_card_generator.py
@@ -31,7 +32,7 @@ anki-danish-card-generator/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+'''
 
 ---
 
