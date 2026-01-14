@@ -17,22 +17,23 @@ This project takes a CSV file with Danish vocabulary and example sentences, down
 ---
 
 ## Project Structure
-"""
+
+```text
 anki-danish-card-generator/
 ├── src/
-│ └── anki_danish_card_generator.py
+│   └── anki_danish_card_generator.py
 ├── data/
-│ ├── input/
-│ │ └── danish_vocab_input.csv
-│ └── output/
-│ ├── anki_cards_structured.csv
-│ └── anki_cards_ready.csv
+│   ├── input/
+│   │   └── danish_vocab_input.csv
+│   └── output/
+│       ├── anki_cards_structured.csv
+│       └── anki_cards_ready.csv
 ├── cache/
-│ └── html_pages/
+│   └── html_pages/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-"""
+
 
 ---
 
