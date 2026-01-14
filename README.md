@@ -59,10 +59,16 @@ The input file must be a semicolon-separated CSV with the following columns:
 - Anki installed (desktop)
 
 Python dependencies:
+```
 pandas
 requests
 beautifulsoup4
 selenium
+```
+
+Install them with: `pip install -r requirements.txt`
+
+
 
 
 
