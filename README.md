@@ -33,7 +33,7 @@ anki-danish-card-generator/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
